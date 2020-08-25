@@ -1,0 +1,21 @@
+body {
+  font-family: "Changa One";
+}
+
+.mainContainer {
+  height: 75vh;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainContainer h1 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.mainContainer a {
+  padding: 8px;
+}
