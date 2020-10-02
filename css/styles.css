@@ -18,4 +18,14 @@ body {
 
 .mainContainer a {
   padding: 8px;
+  display: flex;
+  
+}
+
+.icon {
+  display: inline-block;
+}
+
+.icon:hover {
+  transform: scale(1.3)
 }
